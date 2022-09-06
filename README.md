@@ -1,5 +1,6 @@
-# openfire-gm-halo
-A Halo skirmish wargame using the Open Fire system
+# Halo Firefight
+
+A Halo skirmish wargame using the Open Fire system. Find out more at https://github.com/open-source-tabletop/openfire
 
 ## Module Rules
 
