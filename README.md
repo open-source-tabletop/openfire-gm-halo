@@ -1,6 +1,8 @@
 # Halo Firefight
 
-A Halo skirmish wargame using the Open Fire system. Find out more at https://github.com/open-source-tabletop/openfire
+A Halo skirmish wargame using the Open Fire system.
+
+Find out more and get the core rules for Open Fire at https://github.com/open-source-tabletop/openfire
 
 ## Module Rules
 
