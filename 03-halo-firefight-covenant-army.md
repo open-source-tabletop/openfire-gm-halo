@@ -4,9 +4,7 @@ This army list provides all the rules and units for playing the Covenant in the 
 
 Find out more and get the core rules for Open Fire at https://github.com/open-source-tabletop/openfire
 
-# Command Units
-
-# Standard Units
+# Units
 
 ## Elites (Sangheili)
 
@@ -55,8 +53,6 @@ Every model in this unit has the **Scout** and **Jackal Shield** special rules.
 | Grunt Minor | 4   | 8   | 7   | 8   | 3   |
 | Grunt Major | 4   | 8   | 7   | 8   | 4   |
 
-# Elite Units
-
 ## Hunter Pair (Mgalekgolo)
 
 | Model  | MOV | SKL | DEF | CMD | HP  |
@@ -77,36 +73,24 @@ A Hunter Pair unit contains two Hunters
 
 Each Hunter is armed with an Assault Cannon and a Hunter Combat Shield
 
-# Vehicle Units
-
 # Weapons
 
 | Ranged Weapons    | RNG | ATT | DMG | PRC | Special                  |
 | :---------------- | :-: | :-: | :-: | :-: | :----------------------- |
-| Plasma Rifle      | 24  | 2   | 2   | 2   | Rapid Fire, Massed Fire  |
-| Needler           | 18  | 3   | X   | X   | Accurate, Supercombine   |
+| Assault Cannon    | 24  | 2   | 7   | 4   | Blast, Unwieldy          |
+| Beam Rifle        | 48  | 1   | 4   | 4   | Accurate, Heavy          |
 | Covenant Carbine  |     |     |     |     |                          |
 | - Standard        | 18  | 3   | 2   | 1   |                          |
 | - Sniper          | 32  | 2   | 2   | 1   | Accurate, Heavy          |
-| Needle Rifle      | 32  | 2   | X   | X   | Rapid Fire, Supercombine |
-| Beam Rifle        | 48  | 1   | 4   | 4   | Accurate, Heavy          |
 | Fuel Rod Gun      | 36  | 2   | 7   | 4   | Blast, Heavy             |
-| Energy Sword      | 1   | 2   | 2   | 3   | Melee, Rending (2)       |
+| Needler           | 18  | 3   | 2   | 1   | Accurate, Rending (2)    |
+| Needle Rifle      | 32  | 2   | X   | 2   | Rapid Fire, Rending (2)  |
 | Plasma Pistol     |     |     |     |     |                          |
 | - *Standard*      | 16  | 2   | 2   | 2   |                          |
-| - *Overcharge*    | 12  | 1   | 3   | 3   | Rending (2)              |
-| Assault Cannon    | 24  | 2   | 7   | 4   | Blast, Unwieldy          |
+| - *Overcharge*    | 12  | 1   | 4   | 3   |                          |
+| Plasma Rifle      | 24  | 2   | 2   | 2   | Rapid Fire, Suppressing  |
 
 | Melee Weapons        | RNG | ATT | DMG | PRC | Special               |
 | :------------------- | :-: | :-: | :-: | :-: | :-------------------- |
+| Energy Sword         | 1   | 2   | 2   | 3   | Melee, Rending (2)       |
 | Hunter Combat Shield | 1   | 3   | 3   | 3   | Melee, Impact (4)     |
-
-# Special Rule
-
-## Massed Fire
-
-When a unit targets an enemy unit with 3 or more of these weapons the weapon gains the **Suppressing** special rule.
-
-## Supercombine
-
-This weapons **Damage** and **Piercing** attribute are equal to the number of successful hits from weapons with this special rule during an attack.

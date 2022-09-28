@@ -12,11 +12,13 @@ Find out more and get the core rules for Open Fire at https://github.com/open-so
 | :------ | :-: | :-: | :-: | :-: | :-: |
 | Spartan |  7  |  4  |  5  |  5  | 9   |
 
+### Unit Configuration
+
 A unit of Spartans consists of one Spartan model.
 
 ### Equipment
 
-A Spartan is equipped with a MA5 Assault Rifle, an M6 Pistol, and M9 Grenades.
+A Spartan is equipped with a MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and may make a Spartan Melee Attack.
 
 A Spartan may replace its MA5 Assault Rifle with any of the following:
 
@@ -26,8 +28,6 @@ A Spartan may replace its MA5 Assault Rifle with any of the following:
 - SRS99 Sniper Rifle
 
 A Spartan may instead replace its MA5 Assault Rifle and M6 Pistol with Dual M7 SMGs.
-
-A Spartan may make a Spartan Melee Attack.
 
 ### Special Rules
 
@@ -52,7 +52,7 @@ A Spartan may make a Spartan Melee Attack.
 
 # Weapons
 
-| Weapon                    | RNG | ATT | DMG | PRC | Special                     |
+| Ranged Weapon             | RNG | ATT | DMG | PRC | Special                     |
 | :------------------------ | :-: | :-: | :-: | :-: | :-------------------------- |
 | M6 Pistol                 | 8   | 2   | 2   | 2   | Melee                       |
 | MA5 Assault Rifle         | 24  | 2   | 2   | 1   | Rapid Fire                  |
@@ -62,4 +62,13 @@ A Spartan may make a Spartan Melee Attack.
 | M41 SPNKR Rocket Launcher | 30  | 1   | 8   | 3   | Blast, Heavy                |
 | Dual M7 SMGs              | 18  | 6   | 1   | 1   | Suppressing                 |
 | M9 Grenade                | 4-8 | 2   | 6   | 3   | Grenade, Blast, Rending (3) |
-| Spartan Melee Attack      | 1   | 3   | 2   | 1   | Melee, Impact (2)           |
+
+| Melee Weapons             | RNG | ATT | DMG | PRC | Special                     |
+| :------------------------ | :-: | :-: | :-: | :-: | :-------------------------- |
+| Spartan Melee Attack      | 1   | 2   | 3   | 1   | Melee, Impact (2)           |
+
+# Special Rules
+
+#### Spartan Reflexes
+
+Once per game this unit may make a second move action or a second attack action. These actions are taken after the unit has taken all other possible actions.
