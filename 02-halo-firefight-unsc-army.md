@@ -10,9 +10,11 @@ Find out more and get the core rules for Open Fire at https://github.com/open-so
 
 | Model   | MOV | SKL | DEF | CMD | HP  |
 | :------ | :-: | :-: | :-: | :-: | :-: |
-| Spartan |  7  |  5  |  5  |  5  | 12  |
+| Spartan |  7  |  4  |  5  |  5  | 9   |
 
 A unit of Spartans consists of one Spartan model.
+
+### Equipment
 
 A Spartan is equipped with a MA5 Assault Rifle, an M6 Pistol, and M9 Grenades.
 
@@ -26,6 +28,27 @@ A Spartan may replace its MA5 Assault Rifle with any of the following:
 A Spartan may instead replace its MA5 Assault Rifle and M6 Pistol with Dual M7 SMGs.
 
 A Spartan may make a Spartan Melee Attack.
+
+### Special Rules
+
+- Shield (3)
+- Fearless
+- Skilled
+- Spartan Reflexes
+
+## ODSTs
+
+| Model         | MOV | SKL | DEF | CMD | HP  |
+| :------------ | :-: | :-: | :-: | :-: | :-: |
+| ODST          |  5  |  6  |  6  |  6  | 4   |
+| ODST Sergeant |  5  |  5  |  6  |  5  | 5   |
+
+## Marines
+
+| Model           | MOV | SKL | DEF | CMD | HP  |
+| :-------------- | :-: | :-: | :-: | :-: | :-: |
+| Marine          |  5  |  7  |  8  |  7  |  3  |
+| Marine Sergeant |  5  |  5  |  8  |  6  |  4  |
 
 # Weapons
 

@@ -8,12 +8,12 @@ Find out more and get the core rules for Open Fire at https://github.com/open-so
 
 # Standard Units
 
-## Elites
+## Elites (Sangheili)
 
 | Model       | MOV | SKL | DEF | CMD | HP  |
 | :---------- | :-: | :-: | :-: | :-: | :-: |
-| Elite Minor | 6   | 7   | 6   | 6   | 6   |
-| Elite Major | 6   | 7   | 6   | 5   | 8   |
+| Elite Minor | 6   | 6   | 6   | 6   | 6   |
+| Elite Major | 6   | 6   | 6   | 5   | 8   |
 
 A unit of Elites consists of between 1 and 3 Elite Minors, and may optionally include an Elite Major.
 
@@ -37,7 +37,7 @@ Any model may exchange its Plasma Rifle for any of the following weapons:
 
 Every model in this unit has the **Shield (3)** special rule.
 
-## Jackals
+## Jackals (Kig-yar)
 
 | Model        | MOV | SKL | DEF | CMD | HP  |
 | :----------- | :-: | :-: | :-: | :-: | :-: |
@@ -48,7 +48,7 @@ Every model in this unit has the **Shield (3)** special rule.
 
 Every model in this unit has the **Scout** and **Jackal Shield** special rules.
 
-## Grunts
+## Grunts (Unggoy)
 
 | Model       | MOV | SKL | DEF | CMD | HP  |
 | :---------- | :-: | :-: | :-: | :-: | :-: |
@@ -57,13 +57,31 @@ Every model in this unit has the **Scout** and **Jackal Shield** special rules.
 
 # Elite Units
 
-## Hunter Pair
+## Hunter Pair (Mgalekgolo)
+
+| Model  | MOV | SKL | DEF | CMD | HP  |
+| :----- | :-: | :-: | :-: | :-: | :-: |
+| Hunter | 5   | 7   | 3   | 3   | 12  |
+
+### Unit Configuration
+
+A Hunter Pair unit contains two Hunters
+
+### Special Rules
+- Heavy Armour (1)
+- Fear (2)
+- Bulky
+- Skirmishers
+
+### Equipment
+
+Each Hunter is armed with an Assault Cannon and a Hunter Combat Shield
 
 # Vehicle Units
 
 # Weapons
 
-| Weapon            | RNG | ATT | DMG | PRC | Special                  |
+| Ranged Weapons    | RNG | ATT | DMG | PRC | Special                  |
 | :---------------- | :-: | :-: | :-: | :-: | :----------------------- |
 | Plasma Rifle      | 24  | 2   | 2   | 2   | Rapid Fire, Massed Fire  |
 | Needler           | 18  | 3   | X   | X   | Accurate, Supercombine   |
@@ -72,11 +90,16 @@ Every model in this unit has the **Scout** and **Jackal Shield** special rules.
 | - Sniper          | 32  | 2   | 2   | 1   | Accurate, Heavy          |
 | Needle Rifle      | 32  | 2   | X   | X   | Rapid Fire, Supercombine |
 | Beam Rifle        | 48  | 1   | 4   | 4   | Accurate, Heavy          |
-| Fuel Rod Gun      | 36  | 1   | 8   | 4   | Blast, Heavy             |
+| Fuel Rod Gun      | 36  | 2   | 7   | 4   | Blast, Heavy             |
 | Energy Sword      | 1   | 2   | 2   | 3   | Melee, Rending (2)       |
 | Plasma Pistol     |     |     |     |     |                          |
-| - *Standard*      | 16  | 2   | 2   | 2   |                          | 
-| - *Overcharge*    | 12  | 1   | 3   | 3   | Rending (2)              |                        
+| - *Standard*      | 16  | 2   | 2   | 2   |                          |
+| - *Overcharge*    | 12  | 1   | 3   | 3   | Rending (2)              |
+| Assault Cannon    | 24  | 2   | 7   | 4   | Blast, Unwieldy          |
+
+| Melee Weapons        | RNG | ATT | DMG | PRC | Special               |
+| :------------------- | :-: | :-: | :-: | :-: | :-------------------- |
+| Hunter Combat Shield | 1   | 3   | 3   | 3   | Melee, Impact (4)     |
 
 # Special Rule
 
