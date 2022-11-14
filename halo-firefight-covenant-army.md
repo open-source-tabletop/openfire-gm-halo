@@ -1,27 +1,30 @@
-# Halo Firefight - Covenant Army List
+Halo Firefight - Covenant Army List
+===================================
 
 This army list provides all the rules and units for playing the Covenant in the Halo Firefight Game Module for Open Fire.
 
-Find out more and get the core rules for Open Fire at https://github.com/open-source-tabletop/openfire
+You will also need:
+
+- [The Core Rules for Open Fire](https://github.com/open-source-tabletop/openfire)
+- [The Halo Firefight module rules for Open Fire](https://github.com/open-source-tabletop/openfire-gm-halo)
 
 # Units
 
-## Elites (Sangheili)
+## Elite Minor
 
 | Model       | MOV | SKL | DEF | CMD | HP  |
 | :---------- | :-: | :-: | :-: | :-: | :-: |
 | Elite Minor | 6   | 6   | 6   | 6   | 6   |
-| Elite Major | 6   | 6   | 6   | 5   | 8   |
 
-A unit of Elites consists of between 1 and 3 Elite Minors, and may optionally include an Elite Major.
+### Configuration
 
-If the unit contains an Elite Major then that model is the unit leader.
+A unit of Elites consists of 1 Elite Minor.
 
-### **Equipment**
+### Equipment
 
-Every model in this unit is equipped with a Plasma Rifle and Plasma Grenades.
+An Elite Minor is equipped with a Plasma Rifle and Plasma Grenades.
 
-Any model may exchange its Plasma Rifle for any of the following weapons:
+An Elite Minor may exchange its Plasma Rifle for any of the following weapons:
 
 - Needler
 - Covenant Carbine
@@ -31,47 +34,46 @@ Any model may exchange its Plasma Rifle for any of the following weapons:
 - Energy Sword
 - Plasma Pistol
 
-### **Special Rules** 
+### Special Rules
 
-Every model in this unit has the **Shield (3)** special rule.
+- Shield (3)
 
-## Jackals (Kig-yar)
+## Jackals
 
 | Model        | MOV | SKL | DEF | CMD | HP  |
 | :----------- | :-: | :-: | :-: | :-: | :-: |
 | Jackal Minor | 5   | 7   | 8   | 7   | 3   |
-| Jackal Major | 5   | 7   | 8   | 6   | 4   |
 
-### **Special Rules** 
+### Special Rules
 
-Every model in this unit has the **Scout** and **Jackal Shield** special rules.
+- Scout
+- Jackal Shield
 
-## Grunts (Unggoy)
+## Grunts
 
 | Model       | MOV | SKL | DEF | CMD | HP  |
 | :---------- | :-: | :-: | :-: | :-: | :-: |
 | Grunt Minor | 4   | 8   | 7   | 8   | 3   |
 | Grunt Major | 4   | 8   | 7   | 8   | 4   |
 
-## Hunter Pair (Mgalekgolo)
+## Hunter
 
 | Model  | MOV | SKL | DEF | CMD | HP  |
 | :----- | :-: | :-: | :-: | :-: | :-: |
-| Hunter | 5   | 7   | 3   | 3   | 12  |
+| Hunter | 5   | 7   | 4   | 3   | 20  |
 
 ### Unit Configuration
 
-A Hunter Pair unit contains two Hunters
+A Hunter unit consists of 1 Hunter model.
 
 ### Special Rules
 - Heavy Armour (1)
 - Fear (2)
-- Bulky
-- Skirmishers
+- Vulnerable (Rear)
 
 ### Equipment
 
-Each Hunter is armed with an Assault Cannon and a Hunter Combat Shield
+A Hunter is armed with an Assault Cannon and a Hunter Combat Shield
 
 # Weapons
 
@@ -92,5 +94,11 @@ Each Hunter is armed with an Assault Cannon and a Hunter Combat Shield
 
 | Melee Weapons        | RNG | ATT | DMG | PRC | Special               |
 | :------------------- | :-: | :-: | :-: | :-: | :-------------------- |
-| Energy Sword         | 1   | 2   | 2   | 3   | Melee, Rending (2)       |
-| Hunter Combat Shield | 1   | 3   | 3   | 3   | Melee, Impact (4)     |
+| Energy Sword         | 1   | 2   | 2   | 3   | Melee, Rending (2)    |
+| Hunter Combat Shield | 1   | 3   | 3   | 3   | Melee                 |
+
+# Equipment
+
+## Jackal Shield
+
+This model counts as having the **Shield (4)** special rule for attacks originating in their front arc.

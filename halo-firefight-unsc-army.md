@@ -1,6 +1,13 @@
 Halo Firefight - UNSC Army List
 ===============================
 
+This army list provides all the rules and units for playing the Covenant in the Halo Firefight Game Module for Open Fire.
+
+You will also need:
+
+- [The Core Rules for Open Fire](https://github.com/open-source-tabletop/openfire)
+- [The Halo Firefight module rules for Open Fire](https://github.com/open-source-tabletop/openfire-gm-halo)
+
 # Units
 
 ## Spartans
