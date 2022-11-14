@@ -6,10 +6,10 @@ Find out more and get the core rules for Open Fire at https://github.com/open-so
 
 ## Module Rules
 
-[Halo Firefight Game Module Rules](https://github.com/open-source-tabletop/openfire-gm-halo/blob/main/01-halo-firefight-game-module.md)
+[Halo Firefight Game Module Rules](https://github.com/open-source-tabletop/openfire-gm-halo/blob/main/halo-firefight-game-module.md)
 
 ## Army Lists
 
-[UNSC Army List](https://github.com/open-source-tabletop/openfire-gm-halo/blob/main/02-halo-firefight-unsc-army.md)
+[UNSC Army List](https://github.com/open-source-tabletop/openfire-gm-halo/blob/main/halo-firefight-unsc-army.md)
 
-[Covenant Army List](https://github.com/open-source-tabletop/openfire-gm-halo/blob/main/03-halo-firefight-covenant-army.md)
+[Covenant Army List](https://github.com/open-source-tabletop/openfire-gm-halo/blob/main/halo-firefight-covenant-army.md)
