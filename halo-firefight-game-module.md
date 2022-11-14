@@ -20,5 +20,5 @@ This model can ignore the first X points of damage they take during each round.
 
 # Army Lists
 
-- [UNSC Army List](https://github.com/open-source-tabletop/openfire-gm-halo/blob/main/02-halo-firefight-unsc-army.md)
-- [Covenant Army List](https://github.com/open-source-tabletop/openfire-gm-halo/blob/main/03-halo-firefight-covenant-army.md)
+- [UNSC Army List](https://github.com/open-source-tabletop/openfire-gm-halo/blob/main/halo-firefight-unsc-army.md)
+- [Covenant Army List](https://github.com/open-source-tabletop/openfire-gm-halo/blob/main/halo-firefight-covenant-army.md)
