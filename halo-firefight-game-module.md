@@ -14,6 +14,12 @@ You can find out more about Halo at [Halo Waypoint: The Official Halo Website](h
 
 # Module Rules
 
+## Skirmish Game
+
+Halo Firefight is a Skirmish game and all units consist of 1 single model of the type listed. This is omitted from the army lists for brevity.
+
+## Special Rules
+
 The following additional special rules are used in Halo Firefight.
 
 #### Shield (X)

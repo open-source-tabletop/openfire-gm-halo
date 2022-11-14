@@ -10,15 +10,11 @@ You will also need:
 
 # Units
 
-## Spartans
+## Spartan
 
 | Model   | MOV | SKL | DEF | CMD | HP  |
 | :------ | :-: | :-: | :-: | :-: | :-: |
-| Spartan | 8   | 5   | 5   | 5   | 14  |
-
-### Configuration
-
-A unit of Spartans consists of one Spartan model.
+| Spartan |  8  |  4  |  4  |  4  | 14  |
 
 ### Equipment
 
@@ -27,8 +23,8 @@ A Spartan is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and 
 A Spartan may replace its MA5 Assault Rifle with any of the following:
 
 - M90 Shotgun
-- Battle Rifle
-- M41 SPNKR Rocket Launcher
+- BR55 Service Rifle
+- M41 Rocket Launcher
 - SRS99 Sniper Rifle.
 
 A Spartan may instead replace both its MA5 Assault Rifle and M6 Pistol with Dual M7 SMGs.
@@ -39,46 +35,53 @@ A Spartan may instead replace both its MA5 Assault Rifle and M6 Pistol with Dual
 - Fearless
 - Skilled
 
-## ODSTs
+## ODST
 
 | Model         | MOV | SKL | DEF | CMD | HP  |
 | :------------ | :-: | :-: | :-: | :-: | :-: |
-| ODST          | 5   | 6   | 6   | 6   | 7   |
-
-### Configuration
-
-A unit of ODSTs consists of 2-4 ODST models.
+| ODST          | 5   | 6   | 6   | 6   | 8   |
 
 ### Equipment
 
-An ODST is equipped with an M7 SMG
+An ODST is equipped with an M7 SMG, an M6 Pistol, and M9 Grenades.
 
-## ODST Special Weapons Team
+An ODST may replace its M7 SMG with any of the following:
 
-## Marines
+- M90 Shotgun
+- MA5 Assault Rifle
+- BR55 Service Rifle
+- M41 Rocket Launcher
+- SRS99 Sniper Rifle.
+
+## Marine
 
 | Model           | MOV | SKL | DEF | CMD | HP  |
 | :-------------- | :-: | :-: | :-: | :-: | :-: |
 | Marine          | 5   | 7   | 8   | 7   | 5   |
 
-### Configuration
-
-A unit of Marines consists of between 3 and 5 Marines.
-
 ### Equipment
 
-## Marine Special Weapons Team
+A Marine is equipped with an MA5 Assault Rifle and M9 Grenades.
+
+Any Marine may exchange their MA5 Assault Rifle for any of the following:
+
+- M90 Shotgun
+- BR55 Service Rifle
+
+One Marine in your army may exchange their MA5 Assault Rifle for an M41 Rocket Launcher.
+
+One Marine in your army may exchange their MA5 Assault Rifle for an SRS99 Sniper Rifle.
 
 # Weapons
 
 | Ranged Weapon             | RNG | ATT | DMG | PRC | Special                     |
 | :------------------------ | :-: | :-: | :-: | :-: | :-------------------------- |
-| M6 Pistol                 | 8   | 2   | 2   | 2   | Melee                       |
+| M6 Pistol                 | 8   | 2   | 2   | 2   |                             |
 | MA5 Assault Rifle         | 24  | 2   | 2   | 1   | Rapid Fire                  |
 | M90 Shotgun               | 12  | 3   | 3   | 3   | Rending (2)                 |
-| Battle Rifle              | 30  | 3   | 2   | 2   |                             |
+| BR55 Service Rifle        | 30  | 3   | 2   | 2   |                             |
 | SRS99 Sniper Rifle        | 42  | 1   | 6   | 4   | Accurate, Rending (2)       |
-| M41 SPNKR Rocket Launcher | 30  | 1   | 8   | 3   | Blast, Heavy                |
+| M41 Rocket Launcher       | 30  | 1   | 8   | 3   | Blast, Heavy                |
 | M7 SMG                    | 18  | 4   | 1   | 1   |                             |
 | Dual M7 SMGs              | 18  | 6   | 1   | 1   | Suppressing                 |
 | M9 Grenade                | 4-8 | 2   | 6   | 3   | Grenade, Blast, Rending (3) |
