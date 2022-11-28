@@ -76,16 +76,16 @@ One Marine in your army may exchange their MA5 Assault Rifle for an SRS99 Sniper
 
 | Ranged Weapon             | RNG | ATT | DMG | PRC | Special                     |
 | :------------------------ | :-: | :-: | :-: | :-: | :-------------------------- |
-| M6 Pistol                 | 8   | 2   | 2   | 2   |                             |
-| MA5 Assault Rifle         | 24  | 2   | 2   | 1   | Rapid Fire                  |
-| M90 Shotgun               | 12  | 3   | 3   | 3   | Rending (2)                 |
-| BR55 Service Rifle        | 30  | 3   | 2   | 2   |                             |
-| SRS99 Sniper Rifle        | 42  | 1   | 6   | 4   | Accurate, Rending (2)       |
-| M41 Rocket Launcher       | 30  | 1   | 8   | 3   | Blast, Heavy                |
-| M7 SMG                    | 18  | 4   | 1   | 1   |                             |
-| Dual M7 SMGs              | 18  | 6   | 1   | 1   | Suppressing                 |
-| M9 Grenade                | 4-8 | 2   | 6   | 3   | Grenade, Blast, Rending (3) |
+| M6 Pistol                 | 8   | 2   | 3   | 3   |                             |
+| MA5 Assault Rifle         | 24  | 4   | 2   | 1   | Rapid Fire                  |
+| M90 Shotgun               | 12  | 5   | 2   | 2   | Rending (2)                 |
+| BR55 Service Rifle        | 30  | 3   | 3   | 2   |                             |
+| SRS99 Sniper Rifle        | 42  | 3   | 4   | 5   |                             |
+| M41 Rocket Launcher       | 30  | 3   | 8   | 3   |                             |
+| M7 SMG                    | 18  | 6   | 2   | 0   |                             |
+| Dual M7 SMGs              | 18  | 8   | 3   | 0   |                             |
+| M9 Grenade                | 4-8 | 3   | 6   | 5   | Grenade, Blast, Rending (3) |
 
 | Melee Weapons             | RNG | ATT | DMG | PRC | Special                     |
 | :------------------------ | :-: | :-: | :-: | :-: | :-------------------------- |
-| Spartan Melee Attack      | 1   | 2   | 3   | 1   | Melee, Impact (2)           |
+| Spartan Melee Attack      | 1   | 3   | 3   | 2   | Melee                       |

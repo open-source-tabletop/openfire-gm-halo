@@ -79,23 +79,23 @@ A Hunter is armed with an Assault Cannon and a Hunter Combat Shield
 
 | Ranged Weapons    | RNG | ATT | DMG | PRC | Special                  |
 | :---------------- | :-: | :-: | :-: | :-: | :----------------------- |
-| Assault Cannon    | 24  | 2   | 7   | 4   | Blast, Unwieldy          |
-| Beam Rifle        | 48  | 1   | 4   | 4   | Accurate, Heavy          |
+| Assault Cannon    | 24  | 3   | 7   | 4   | Blast                    |
+| Beam Rifle        | 48  | 3   | 5   | 3   | Heavy                    |
 | Covenant Carbine  |     |     |     |     |                          |
-| - Standard        | 18  | 3   | 2   | 1   |                          |
-| - Sniper          | 32  | 2   | 2   | 1   | Accurate, Heavy          |
-| Fuel Rod Gun      | 36  | 2   | 7   | 4   | Blast, Heavy             |
-| Needler           | 18  | 3   | 2   | 1   | Accurate, Rending (2)    |
-| Needle Rifle      | 32  | 2   | X   | 2   | Rapid Fire, Rending (2)  |
+| - Standard        | 18  | 3   | 3   | 2   |                          |
+| - Sniper          | 32  | 3   | 4   | 4   | Heavy                    |
+| Fuel Rod Gun      | 36  | 3   | 6   | 5   | Blast, Heavy             |
+| Needler           | 18  | 4   | 2   | 0   | Rending (5)              |
+| Needle Rifle      | 32  | 4   | 3   | 0   | Rapid Fire, Rending (5)  |
 | Plasma Pistol     |     |     |     |     |                          |
 | - *Standard*      | 16  | 2   | 2   | 2   |                          |
 | - *Overcharge*    | 12  | 1   | 4   | 3   |                          |
-| Plasma Rifle      | 24  | 2   | 2   | 2   | Rapid Fire, Suppressing  |
+| Plasma Rifle      | 24  | 4   | 2   | 1   | Rapid Fire               |
 
 | Melee Weapons        | RNG | ATT | DMG | PRC | Special               |
 | :------------------- | :-: | :-: | :-: | :-: | :-------------------- |
-| Energy Sword         | 1   | 2   | 2   | 3   | Melee, Rending (2)    |
-| Hunter Combat Shield | 1   | 3   | 3   | 3   | Melee                 |
+| Energy Sword         | 1   | 4   | 4   | 6   | Melee, Rending (4)    |
+| Hunter Combat Shield | 1   | 3   | 3   | 4   | Melee                 |
 
 # Equipment
 
