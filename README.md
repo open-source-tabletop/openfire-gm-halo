@@ -1,15 +1,15 @@
 # Halo Firefight
 
-A Halo skirmish wargame using the Open Fire system.
+Halo Firefight is a skirmish wargame using the Open Fire system and the Skirmish Expansion:
 
-Find out more and get the core rules for Open Fire at https://github.com/open-source-tabletop/openfire
+- [View the core rules for Open Fire](https://github.com/open-source-tabletop/openfire/blob/main/core-rules.md)
+- [View the Skirmish Expansion](https://github.com/open-source-tabletop/openfire/blob/main/skirmish-expansion.md)
 
 ## Module Rules
 
-[Halo Firefight Game Module Rules](https://github.com/open-source-tabletop/openfire-gm-halo/blob/main/halo-firefight-game-module.md)
+- [View the Halo Firefight Game Module Rules](https://github.com/open-source-tabletop/openfire-gm-halo/blob/main/halo-firefight-game-module.md)
 
 ## Army Lists
 
-[UNSC Army List](https://github.com/open-source-tabletop/openfire-gm-halo/blob/main/halo-firefight-unsc-army.md)
-
-[Covenant Army List](https://github.com/open-source-tabletop/openfire-gm-halo/blob/main/halo-firefight-covenant-army.md)
+- [UNSC Army List](https://github.com/open-source-tabletop/openfire-gm-halo/blob/main/halo-firefight-unsc-army.md)
+- [Covenant Army List](https://github.com/open-source-tabletop/openfire-gm-halo/blob/main/halo-firefight-covenant-army.md)
