@@ -79,26 +79,26 @@ A Hunter is armed with an Assault Cannon and a Hunter Combat Shield
 
 | Ranged Weapons    | RNG | ATT | DMG | PRC | Special                  |
 | :---------------- | :-: | :-: | :-: | :-: | :----------------------- |
-| Assault Cannon    | 24  | 3   | 7   | 4   | Blast                    |
-| Beam Rifle        | 48  | 3   | 5   | 3   | Heavy                    |
+| Assault Cannon    | 24  | 3   | 7   | 5   | Blast, Unwieldy          |
+| Beam Rifle        | 48  | 3   | 8   | 3   | Heavy                    |
 | Covenant Carbine  |     |     |     |     |                          |
-| - Standard        | 18  | 3   | 3   | 2   |                          |
-| - Sniper          | 32  | 3   | 4   | 4   | Heavy                    |
-| Fuel Rod Gun      | 36  | 3   | 6   | 5   | Blast, Heavy             |
-| Needler           | 18  | 4   | 2   | 0   | Rending (5)              |
-| Needle Rifle      | 32  | 4   | 3   | 0   | Rapid Fire, Rending (5)  |
+| - Standard        | 18  | 3   | 3   | 3   |                          |
+| - Sniper          | 32  | 2   | 6   | 3   | Heavy                    |
+| Fuel Rod Gun      | 36  | 3   | 6   | 8   | Blast, Heavy             |
+| Needler           | 18  | 7   | 1   | 0   | Rending (5)              |
+| Needle Rifle      | 32  | 3   | 2   | 1   | Rapid Fire, Rending (3)  |
 | Plasma Pistol     |     |     |     |     |                          |
-| - *Standard*      | 16  | 2   | 2   | 2   |                          |
-| - *Overcharge*    | 12  | 1   | 4   | 3   |                          |
-| Plasma Rifle      | 24  | 4   | 2   | 1   | Rapid Fire               |
+| - *Standard*      | 16  | 3   | 2   | 2   |                          |
+| - *Overcharge*    | 12  | 2   | 4   | 4   |                          |
+| Plasma Rifle      | 24  | 5   | 2   | 2   | Rapid Fire               |
 
 | Melee Weapons        | RNG | ATT | DMG | PRC | Special               |
 | :------------------- | :-: | :-: | :-: | :-: | :-------------------- |
-| Energy Sword         | 1   | 4   | 4   | 6   | Melee, Rending (4)    |
-| Hunter Combat Shield | 1   | 3   | 3   | 4   | Melee                 |
+| Energy Sword         | 1   | 4   | 5   | 5   | Melee, Rending (4)    |
+| Hunter Combat Shield | 1   | 3   | 4   | 5   | Melee, Unwieldy       |
 
 # Equipment
 
 ## Jackal Shield
 
-This model counts as having the **Shield (4)** special rule for attacks originating in their front arc.
+This model counts as having the **Shield (2)** special rule for attacks originating in their front arc.

@@ -1,16 +1,18 @@
 Halo Firefight - UNSC Army List
 ===============================
 
-This army list provides all the rules and units for playing the Covenant in the Halo Firefight Game Module for Open Fire.
+This army list provides all the rules and units for playing the UNSC in the Halo Firefight Game Module for Open Fire.
 
 You will also need:
 
-- [The Core Rules for Open Fire](https://github.com/open-source-tabletop/openfire)
-- [The Halo Firefight module rules for Open Fire](https://github.com/open-source-tabletop/openfire-gm-halo)
+- [The Core Rules for Open Fire](https://github.com/open-source-tabletop/openfire/blob/main/core-rules.md)
+- [The Halo Firefight module rules for Open Fire](https://github.com/open-source-tabletop/openfire-gm-halo/blob/main/halo-firefight-game-module.md)
+
+You may choose any units for your army from the following list.
 
 # Units
 
-## Spartan
+## Spartans
 
 | Model   | MOV | SKL | DEF | CMD | HP  |
 | :------ | :-: | :-: | :-: | :-: | :-: |
@@ -18,7 +20,7 @@ You will also need:
 
 ### Equipment
 
-A Spartan is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and may make a Spartan Melee Attack.
+A Spartan is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and may make a Heavy Melee Attack.
 
 A Spartan may replace its MA5 Assault Rifle with any of the following:
 
@@ -74,18 +76,18 @@ One Marine in your army may exchange their MA5 Assault Rifle for an SRS99 Sniper
 
 # Weapons
 
-| Ranged Weapon             | RNG | ATT | DMG | PRC | Special                     |
-| :------------------------ | :-: | :-: | :-: | :-: | :-------------------------- |
-| M6 Pistol                 | 8   | 2   | 3   | 3   |                             |
-| MA5 Assault Rifle         | 24  | 4   | 2   | 1   | Rapid Fire                  |
-| M90 Shotgun               | 12  | 5   | 2   | 2   | Rending (2)                 |
-| BR55 Service Rifle        | 30  | 3   | 3   | 2   |                             |
-| SRS99 Sniper Rifle        | 42  | 3   | 4   | 5   |                             |
-| M41 Rocket Launcher       | 30  | 3   | 8   | 3   |                             |
-| M7 SMG                    | 18  | 6   | 2   | 0   |                             |
-| Dual M7 SMGs              | 18  | 8   | 3   | 0   |                             |
-| M9 Grenade                | 4-8 | 3   | 6   | 5   | Grenade, Blast, Rending (3) |
+| Ranged Weapon             | RNG  | ATT | DMG | PRC | Special                     |
+| :------------------------ | :--: | :-: | :-: | :-: | :-------------------------- |
+| M6 Pistol                 | 8    | 2   | 4   | 4   |                             |
+| MA5 Assault Rifle         | 30   | 4   | 2   | 2   | Rapid Fire                  |
+| M90 Shotgun               | 12   | 5   | 2   | 3   | Rending (3)                 |
+| BR55 Service Rifle        | 30   | 3   | 3   | 3   |                             |
+| SRS99 Sniper Rifle        | 42   | 3   | 10  | 3   |                             |
+| M41 Rocket Launcher       | 6-30 | 3   | 6   | 7   |                             |
+| M7 SMG                    | 18   | 7   | 2   | 0   |                             |
+| Dual M7 SMGs              | 18   | 9   | 2   | 0   |                             |
+| M9 Grenade                | 4-8  | 3   | 4   | 6   | Grenade, Blast, Rending (3) |
 
-| Melee Weapons             | RNG | ATT | DMG | PRC | Special                     |
-| :------------------------ | :-: | :-: | :-: | :-: | :-------------------------- |
-| Spartan Melee Attack      | 1   | 3   | 3   | 2   | Melee                       |
+| Melee Weapons             | RNG  | ATT | DMG | PRC | Special                     |
+| :------------------------ | :--: | :-: | :-: | :-: | :-------------------------- |
+| Heavy Melee Attack        | 1    | 4   | 3   | 3   | Melee                       |

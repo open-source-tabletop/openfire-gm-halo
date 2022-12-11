@@ -12,6 +12,10 @@ This is an unofficial game but you can find out more about Halo at [Halo Waypoin
 
 # Module Rules
 
+## Game Modes
+
+Halo Firefight can be played in one of 2 ways, as a normal **battle**, or using the optional **arena** rules. The normal battle mode sees both players bring a small force to the table where they fight to achieve a number of battles while trying to destroy their opponent. The **arena** mode is built around a small number of models which are able to **respawn**, be brought back into the battle after being destroyed, to continue the fight. Players score points for either killing enemy models or for achieving repeatable goals: such as capturing an enemy flag. All the rules for this module apply to both battle and arena modes, while there are a small set of additional rules for the arena mode.
+
 ## Special Rules
 
 The following additional special rules are used in Halo Firefight.
@@ -19,6 +23,26 @@ The following additional special rules are used in Halo Firefight.
 #### Shield (X)
 
 This model can ignore the first X points of damage they take during each round.
+
+## Arena Rules
+
+### Stress
+
+Arena games do not use the rules for stress.
+
+### Choosing Armies
+
+Players decide what size of game they wish to play, typically between 2-6 models each, and choose either **Spartans** or **Elites** to represent their team. For arena games these models all use the same profile as shown below, but begin the game with different weapons:
+
+| Model             | MOV | SKL | DEF | CMD | HP  | Special                 |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :---------------------- |
+| Spartans / Elites |  8  |  4  |  4  |  5  | 12  | Shield (2), Skilled     |
+
+#### Equipment
+
+Spartans begin the game with an MA5 Assault Rifle, M6 Pistol, M9 Grenades, and may make a Heavy Melee Attack.
+
+Elites begin the game with
 
 # Army Lists
 
