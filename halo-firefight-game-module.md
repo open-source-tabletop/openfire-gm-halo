@@ -70,8 +70,8 @@ This model has a -4 modifier to its defence rolls against attacks which originat
 
 You may use the following army lists to create your army for Halo Firefight:
 
-- [UNSC Army List](halo-firefight-unsc-army.md)
-- [Covenant Army List](halo-firefight-covenant-army.md)
+- [UNSC Army List](army-list-unsc.md)
+- [Covenant Army List](army-list-covenant.md)
 
 # Arena Rules
 
