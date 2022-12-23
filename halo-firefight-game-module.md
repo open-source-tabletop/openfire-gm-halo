@@ -46,23 +46,23 @@ When a model with the adaptable special rules moves, if at any time during its m
 
 The following additional special rules are used in Halo Firefight.
 
-## Adaptable
+### Adaptable
 
 This model may swap it's weapons during a game following the rules for weapon swapping.
 
-## Energy Weapon
+### Energy Weapon
 
 This model
 
-## Shield (X)
+### Shield (X)
 
 This model can ignore the first X points of damage they take during each round.
 
-## Swappable
+### Swappable
 
 This weapon may be swapped by models using the rules for weapon swapping.
 
-## Weak Point
+### Weak Point
 
 This model has a -4 modifier to its defence rolls against attacks which originate in it's rear arc.
 
