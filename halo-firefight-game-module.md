@@ -50,14 +50,6 @@ The following additional special rules are used in Halo Firefight.
 
 This model may swap it's weapons during a game following the rules for weapon swapping.
 
-### Energy Weapon
-
-This model
-
-### Shield (X)
-
-This model can ignore the first X points of damage they take during each round.
-
 ### Swappable
 
 This weapon may be swapped by models using the rules for weapon swapping.
@@ -94,7 +86,15 @@ In addition to being able to pick up weapons that other models drop, arena inclu
 
 ## Arena Objectives
 
-### Team Flags
+### Team Flags and Team Bases
+
+Team Flags are a new kind of objective used in Capture the Flag style missions. Each player will have one or more Team Base Objectives which have a flag belonging to that player. Any enemy model, simply by moving within 1 inch of an enemy Team Base may pick up the enemy flag. A model may only pick up one flag at a time and may only pick up an enemy flag.
+
+While that model is carrying the enemy flag they may only make attacks using the Spartan Melee Attack weapon as listed in the Spartan Unit Profile. If the model carrying an enemy flag moves within 1 inch of their own team base they score 3 victory points and the flag is returned to the enemy team base.
+
+If the model carrying the enemy flag is destroyed, place a marker where the model was destroyed indicating the position of the flag. If another model from an opposing team moves within 1 inch of the flag they pick up the flag as though they had picked it up from the enemy team base. If a model from the team that owns the flag moves within 1 inch of the marker it is immediately returned to their team base.
+
+If you are using more than one team flag per player you will need to mark each team flag and base with a number to ensure they return to the correct position.
 
 ## Stress
 
