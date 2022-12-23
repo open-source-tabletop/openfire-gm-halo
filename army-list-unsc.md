@@ -18,6 +18,10 @@ You may choose any units for your army from the following list.
 | :------ | :-: | :-: | :-: | :-: | :-: |
 | Spartan |  8  |  4  |  4  |  4  | 14  |
 
+### Configuration
+
+A unit of Spartans consists of 1 Spartan model.
+
 ### Equipment
 
 A Spartan is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and may make a Spartan Melee Attack.
@@ -26,20 +30,34 @@ A Spartan may replace its MA5 Assault Rifle with any of the following:
 
 - M90 Shotgun
 - BR55 Service Rifle
+- M7 SMG
 - M41 Rocket Launcher
-- SRS99 Sniper Rifle.
+- SRS99 Sniper Rifle
+
+A Spartan may instead replace both its MA5 Assault Rifle and M6 Pistol with two M7 SMGs.
+
+A Spartan may choose one of the following abilities:
+
+- Active Camouflage
+- Overshield:
+- Jet Pack
 
 ### Special Rules
 
-- Shield (4)
+- Adaptable
+- Shield (3)
 - Fearless
 - Skilled
 
-## ODST
+## ODSTs
 
 | Model         | MOV | SKL | DEF | CMD | HP  |
 | :------------ | :-: | :-: | :-: | :-: | :-: |
-| ODST          | 5   | 6   | 6   | 6   | 8   |
+| ODST          | 6   | 6   | 7   | 5   | 8   |
+
+### Configuration
+
+A unit of ODSTs consists of between 2 and 5 ODST models.
 
 ### Equipment
 
@@ -57,7 +75,11 @@ An ODST may replace its M7 SMG with any of the following:
 
 | Model           | MOV | SKL | DEF | CMD | HP  |
 | :-------------- | :-: | :-: | :-: | :-: | :-: |
-| Marine          | 5   | 7   | 8   | 7   | 5   |
+| Marine          | 5   | 7   | 8   | 8   | 6   |
+
+### Configuration
+
+A unit of Marines consists of 3-6 Marine models.
 
 ### Equipment
 
@@ -68,21 +90,33 @@ Any Marine may exchange their MA5 Assault Rifle for any of the following:
 - M90 Shotgun
 - BR55 Service Rifle
 
-One Marine in your army may exchange their MA5 Assault Rifle for an M41 Rocket Launcher.
+One Marine in the unit may exchange their MA5 Assault Rifle for an M41 Rocket Launcher or SRS99 Sniper Rifle.
 
-One Marine in your army may exchange their MA5 Assault Rifle for an SRS99 Sniper Rifle.
+# Abilities
+
+## Active Camouflage
+
+Instead of making an attack action this turn you may activate Active Camouflage and gain the Stealth (5) special rule until the start of your next activation. This ability may only be used once per battle.
+
+## Overshield
+
+This model may re-roll any failed defence rolls that did not roll a 1 until the start of your next activation. This ability may only be used once per battle.
+
+## Jetpack
+
+This model gains the Fast and Flying special rules until the start of it's next activation. This ability may only be used once per battle.
 
 # Weapons
 
 | Ranged Weapon             | RNG  | ATT | DMG | PRC | Special                     |
 | :------------------------ | :--: | :-: | :-: | :-: | :-------------------------- |
-| M6 Pistol                 | 8    | 2   | 4   | 4   | Swappable                   |
-| MA5 Assault Rifle         | 30   | 4   | 2   | 2   | Swappable, Rapid Fire       |
-| M90 Shotgun               | 12   | 5   | 2   | 3   | Swappable, Rending (3)      |
-| BR55 Service Rifle        | 30   | 3   | 3   | 3   | Swappable                   |
-| SRS99 Sniper Rifle        | 42   | 3   | 10  | 3   | Swappable                   |
+| M6 Pistol                 | 8    | 3   | 3   | 3   | Swappable, Dual Wielding    |
+| MA5 Assault Rifle         | 30   | 5   | 2   | 2   | Swappable, Rapid Fire       |
+| M90 Shotgun               | 12   | 4   | 4   | 3   | Swappable, Rending (3)      |
+| BR55 Service Rifle        | 30   | 4   | 3   | 3   | Swappable, Accurate         |
+| SRS99 Sniper Rifle        | 42   | 2   | 10  | 4   | Swappable, Accurate         |
 | M41 Rocket Launcher       | 6-30 | 3   | 6   | 7   | Swappable                   |
-| M7 SMG                    | 18   | 7   | 2   | 0   | Swappable                   |
+| M7 SMG                    | 18   | 5   | 2   | 0   | Swappable, Dual Wielding    |
 | M9 Grenade                | 4-8  | 3   | 4   | 6   | Grenade, Blast, Rending (3) |
 
 | Melee Weapons             | RNG  | ATT | DMG | PRC | Special                     |

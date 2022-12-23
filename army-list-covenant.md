@@ -5,62 +5,98 @@ This army list provides all the rules and units for playing the Covenant in the 
 
 You will also need:
 
-- [The Core Rules for Open Fire](https://github.com/open-source-tabletop/openfire)
-- [The Halo Firefight module rules for Open Fire](https://github.com/open-source-tabletop/openfire-gm-halo)
+- [The Core Rules for Open Fire](https://github.com/open-source-tabletop/openfire/blob/main/core-rules.md)
+- [The Halo Firefight module rules for Open Fire](https://github.com/open-source-tabletop/openfire-gm-halo/blob/main/halo-firefight-game-module.md)
+
+You may choose any units for your army from the following list.
 
 # Units
 
-## Elite Minor
+## Elite Minors
 
 | Model       | MOV | SKL | DEF | CMD | HP  |
 | :---------- | :-: | :-: | :-: | :-: | :-: |
-| Elite Minor | 6   | 6   | 6   | 6   | 6   |
+| Elite Minor | 6   | 6   | 7   | 8   | 9   |
 
 ### Configuration
 
-A unit of Elites consists of 1 Elite Minor.
+A unit of Elite Minors consists of 1-3 Elite Minors models.
 
 ### Equipment
 
 An Elite Minor is equipped with a Plasma Rifle and Plasma Grenades.
 
-An Elite Minor may exchange its Plasma Rifle for any of the following weapons:
+An Elite Minor may exchange its Plasma Rifle for one of the following weapons:
 
 - Needler
 - Covenant Carbine
 - Needle Rifle
+- Plasma Pistol
+
+One Elite Minor in the unit may exchange its Plasma Rifle for one of the following:
+
 - Beam Rifle
 - Fuel Rod Gun
 - Energy Sword
-- Plasma Pistol
 
 ### Special Rules
 
+- Adaptable
 - Shield (3)
 
 ## Jackals
 
 | Model        | MOV | SKL | DEF | CMD | HP  |
 | :----------- | :-: | :-: | :-: | :-: | :-: |
-| Jackal Minor | 5   | 7   | 8   | 7   | 3   |
+| Jackal       | 6   | 7   | 10  | 7   | 5   |
+
+### Configuration
+
+This unit consists of between 3 and 5 Jackal models.
+
+### Equipment
+
+Jackals are equipped with Needlers
+
+Any Jackal model may replace its Needler with one of the following:
+
+- Plasma Pistol
+- Plasma Rifle
+- Covenant Carbine
+- Beam Rifle
 
 ### Special Rules
 
-- Scout
+- Ambush
+- Elite Support
 - Jackal Shield
 
 ## Grunts
 
 | Model       | MOV | SKL | DEF | CMD | HP  |
 | :---------- | :-: | :-: | :-: | :-: | :-: |
-| Grunt Minor | 4   | 8   | 7   | 8   | 3   |
-| Grunt Major | 4   | 8   | 7   | 8   | 4   |
+| Grunt       | 5   | 8   | 9   | 10  | 3   |
+
+### Configuration
+
+This unit consists of between 3 and 5 Grunt models.
+
+### Equipment
+
+Each Grunt is equipped with a Plasma Pistol and Plasma Grenades.
+
+Any Grunt may replace its Plasma Pistol with one of the following:
+
+- Plasma Rifle
+- Needler
+
+One Grunt in your unit may replace its Plasma Pistol with a Fuel Rod Gun.
 
 ## Hunter
 
 | Model  | MOV | SKL | DEF | CMD | HP  |
 | :----- | :-: | :-: | :-: | :-: | :-: |
-| Hunter | 5   | 7   | 4   | 3   | 20  |
+| Hunter | 6   | 7   | 4   | 3   | 16  |
 
 ### Unit Configuration
 
@@ -69,36 +105,50 @@ A Hunter unit consists of 1 Hunter model.
 ### Special Rules
 - Heavy Armour (1)
 - Fear (2)
-- Vulnerable (Rear)
+- Weak Point
 
 ### Equipment
 
 A Hunter is armed with an Assault Cannon and a Hunter Combat Shield
 
-# Weapons
+### Abilities
 
-| Ranged Weapons    | RNG | ATT | DMG | PRC | Special                  |
-| :---------------- | :-: | :-: | :-: | :-: | :----------------------- |
-| Assault Cannon    | 24  | 3   | 7   | 5   | Blast, Unwieldy          |
-| Beam Rifle        | 48  | 3   | 8   | 3   | Heavy                    |
-| Covenant Carbine  |     |     |     |     |                          |
-| - Standard        | 18  | 3   | 3   | 3   |                          |
-| - Sniper          | 32  | 2   | 6   | 3   | Heavy                    |
-| Fuel Rod Gun      | 36  | 3   | 6   | 8   | Blast, Heavy             |
-| Needler           | 18  | 7   | 1   | 0   | Rending (5)              |
-| Needle Rifle      | 32  | 3   | 2   | 1   | Rapid Fire, Rending (3)  |
-| Plasma Pistol     |     |     |     |     |                          |
-| - *Standard*      | 16  | 3   | 2   | 2   |                          |
-| - *Overcharge*    | 12  | 2   | 4   | 4   |                          |
-| Plasma Rifle      | 24  | 5   | 2   | 2   | Rapid Fire               |
+- Hunter Charge
 
-| Melee Weapons        | RNG | ATT | DMG | PRC | Special               |
-| :------------------- | :-: | :-: | :-: | :-: | :-------------------- |
-| Energy Sword         | 1   | 4   | 5   | 5   | Melee, Rending (4)    |
-| Hunter Combat Shield | 1   | 3   | 4   | 5   | Melee, Unwieldy       |
+# Special Rules
 
-# Equipment
+## Elite Support
+
+While this unit is within 12 inches of an Elite model it may re-roll failed command rolls that do not roll a 1.
 
 ## Jackal Shield
 
-This model counts as having the **Shield (2)** special rule for attacks originating in their front arc.
+This model counts as having the **Shield (4)** special rule for attacks originating in their front arc.
+
+# Abilities
+
+## Hunter Charge
+
+If this model moves in a straight line during a move action that takes it into the assault range of an enemy model then it may add 1 to the attack attribute of its Hunter Combat Shield for every full 5 inches traveled. 
+
+# Weapons
+
+| Ranged Weapons    | RNG | ATT | DMG | PRC | Special                               |
+| :---------------- | :-: | :-: | :-: | :-: | :------------------------------------ |
+| Assault Cannon    | 24  | 3   | 6   | 8   | Blast, Unwieldy                       |
+| Beam Rifle        | 48  | 3   | 8   | 3   | Swappable, Accurate                   |
+| Covenant Carbine  |     |     |     |     |                                       |
+| - Standard        | 18  | 3   | 3   | 3   | Swappable                             |
+| - Sniper          | 32  | 3   | 6   | 3   | Swappable, Accurate Heavy             |
+| Fuel Rod Gun      | 36  | 3   | 6   | 8   | Swappable, Blast, Heavy               |
+| Needler           | 18  | 8   | 1   | 0   | Swappable, Dual Wielding, Rending (5) |
+| Needle Rifle      | 32  | 4   | 3   | 1   | Swappable, Rapid Fire, Rending (3)    |
+| Plasma Pistol     |     |     |     |     |                                       |
+| - *Standard*      | 16  | 3   | 3   | 2   | Swappable, Duel Wielding              |
+| - *Overcharge*    | 12  | 2   | 5   | 5   | Swappable, Dual Wielding, Blast       |
+| Plasma Rifle      | 24  | 5   | 3   | 2   | Swappable                             |
+
+| Melee Weapons        | RNG | ATT | DMG | PRC | Special                         |
+| :------------------- | :-: | :-: | :-: | :-: | :------------------------------ |
+| Energy Sword         | 1   | 5   | 3   | 5   | Swappable, Assault, Rending (5) |
+| Hunter Combat Shield | 1   | 3   | 4   | 5   | Assault, Unwieldy               |
