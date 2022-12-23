@@ -20,7 +20,7 @@ You may choose any units for your army from the following list.
 
 ### Equipment
 
-A Spartan is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and may make a Heavy Melee Attack.
+A Spartan is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and may make a Spartan Melee Attack.
 
 A Spartan may replace its MA5 Assault Rifle with any of the following:
 
@@ -28,8 +28,6 @@ A Spartan may replace its MA5 Assault Rifle with any of the following:
 - BR55 Service Rifle
 - M41 Rocket Launcher
 - SRS99 Sniper Rifle.
-
-A Spartan may instead replace both its MA5 Assault Rifle and M6 Pistol with Dual M7 SMGs.
 
 ### Special Rules
 
@@ -78,16 +76,15 @@ One Marine in your army may exchange their MA5 Assault Rifle for an SRS99 Sniper
 
 | Ranged Weapon             | RNG  | ATT | DMG | PRC | Special                     |
 | :------------------------ | :--: | :-: | :-: | :-: | :-------------------------- |
-| M6 Pistol                 | 8    | 2   | 4   | 4   |                             |
-| MA5 Assault Rifle         | 30   | 4   | 2   | 2   | Rapid Fire                  |
-| M90 Shotgun               | 12   | 5   | 2   | 3   | Rending (3)                 |
-| BR55 Service Rifle        | 30   | 3   | 3   | 3   |                             |
-| SRS99 Sniper Rifle        | 42   | 3   | 10  | 3   |                             |
-| M41 Rocket Launcher       | 6-30 | 3   | 6   | 7   |                             |
-| M7 SMG                    | 18   | 7   | 2   | 0   |                             |
-| Dual M7 SMGs              | 18   | 9   | 2   | 0   |                             |
+| M6 Pistol                 | 8    | 2   | 4   | 4   | Swappable                   |
+| MA5 Assault Rifle         | 30   | 4   | 2   | 2   | Swappable, Rapid Fire       |
+| M90 Shotgun               | 12   | 5   | 2   | 3   | Swappable, Rending (3)      |
+| BR55 Service Rifle        | 30   | 3   | 3   | 3   | Swappable                   |
+| SRS99 Sniper Rifle        | 42   | 3   | 10  | 3   | Swappable                   |
+| M41 Rocket Launcher       | 6-30 | 3   | 6   | 7   | Swappable                   |
+| M7 SMG                    | 18   | 7   | 2   | 0   | Swappable                   |
 | M9 Grenade                | 4-8  | 3   | 4   | 6   | Grenade, Blast, Rending (3) |
 
 | Melee Weapons             | RNG  | ATT | DMG | PRC | Special                     |
 | :------------------------ | :--: | :-: | :-: | :-: | :-------------------------- |
-| Heavy Melee Attack        | 1    | 4   | 3   | 3   | Melee                       |
+| Spartan Melee Attack      | 1    | 4   | 3   | 3   | Assault                     |
