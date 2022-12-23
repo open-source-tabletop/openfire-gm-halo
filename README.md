@@ -9,5 +9,5 @@ Halo Firefight is a skirmish wargame using the Open Fire system set in the Halo 
 
 ## Army Lists
 
-- [UNSC Army List](halo-firefight-unsc-army.md)
-- [Covenant Army List](halo-firefight-covenant-army.md)
+- [UNSC Army List](army-list-unsc.md)
+- [Covenant Army List](army-list-covenant.md)
