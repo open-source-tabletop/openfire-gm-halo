@@ -159,25 +159,3 @@ While this unit is within 12 inches of an Elite model it may re-roll failed comm
 ## Jackal Shield
 
 This model counts as having the **Shield (3)** special rule for attacks originating in their front arc.
-
-# Weapons
-
-| Ranged Weapons       | Rng | Att | Dmg | Prc | Special                               |
-| :------------------- | :-: | :-: | :-: | :-: | :------------------------------------ |
-| Assault Cannon       | 24  | 3   | 6   | 8   | Blast, Unwieldy                       |
-| Beam Rifle           | 48  | 3   | 8   | 3   | Swappable, Accurate                   |
-| Covenant Carbine     |     |     |     |     |                                       |
-| - Standard           | 18  | 3   | 3   | 3   | Swappable                             |
-| - Sniper             | 32  | 3   | 6   | 3   | Swappable, Accurate, Heavy            |
-| Fuel Rod Gun         | 36  | 3   | 6   | 8   | Swappable, Blast, Unwieldy            |
-| Needler              | 18  | 8   | 1   | 0   | Swappable, Dual Wielding, Rending (5) |
-| Needle Rifle         | 32  | 4   | 3   | 1   | Swappable, Rapid Fire, Rending (3)    |
-| Plasma Pistol        |     |     |     |     |                                       |
-| - *Standard*         | 16  | 3   | 3   | 2   | Swappable, Duel Wielding              |
-| - *Overcharge*       | 12  | 2   | 5   | 5   | Swappable, Dual Wielding, Blast       |
-| Plasma Rifle         | 24  | 5   | 3   | 2   | Swappable                             |
-
-| Melee Weapons        | RNG | ATT | DMG | PRC | Special                         |
-| :------------------- | :-: | :-: | :-: | :-: | :------------------------------ |
-| Energy Sword         | 1   | 5   | 3   | 5   | Swappable, Assault, Rending (5) |
-| Hunter Combat Shield | 1   | 3   | Str | 5   | Assault, Unwieldy               |

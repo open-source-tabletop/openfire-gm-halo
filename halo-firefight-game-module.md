@@ -64,7 +64,7 @@ This weapon may be swapped by models using the rules for weapon swapping.
 
 ### Weak Point
 
-This model has a -4 modifier to its defence rolls against attacks which originate in it's rear arc.
+This model has a -2 modifier to its defence rolls against attacks which originate in it's rear arc. In addition, the model does not gain the benefit of the Heavy Armour (X) rule if it has it.
 
 # Army Lists
 
@@ -73,24 +73,73 @@ You may use the following army lists to create your army for Halo Firefight:
 - [UNSC Army List](army-list-unsc.md)
 - [Covenant Army List](army-list-covenant.md)
 
+# Weapons
+
+| Covenant Weapons     | Rng | Att | Dmg | Prc | Special                               |
+| :------------------- | :-: | :-: | :-: | :-: | :------------------------------------ |
+| Assault Cannon       | 24  | 3   | 6   | 8   | Blast, Unwieldy                       |
+| Beam Rifle           | 48  | 3   | 8   | 3   | Swappable, Accurate                   |
+| Covenant Carbine     |     |     |     |     |                                       |
+| - Standard           | 18  | 3   | 3   | 3   | Swappable                             |
+| - Sniper             | 32  | 3   | 6   | 3   | Swappable, Accurate, Heavy            |
+| Fuel Rod Gun         | 36  | 3   | 6   | 8   | Swappable, Blast, Unwieldy            |
+| Needler              | 18  | 8   | 1   | 0   | Swappable, Dual Wielding, Rending (5) |
+| Needle Rifle         | 32  | 4   | 3   | 1   | Swappable, Rapid Fire, Rending (3)    |
+| Plasma Pistol        |     |     |     |     |                                       |
+| - *Standard*         | 16  | 3   | 3   | 2   | Swappable, Duel Wielding              |
+| - *Overcharge*       | 12  | 2   | 5   | 5   | Swappable, Dual Wielding, Blast       |
+| Plasma Rifle         | 24  | 5   | 3   | 2   | Swappable                             |
+| Energy Sword         | 1   | 5   | 3   | 5   | Swappable, Assault, Rending (5)       |
+| Hunter Combat Shield | 1   | 3   | Str | 5   | Assault, Unwieldy                     |
+
+| UNSC Weapons         | Rng  | Att | Dmg | Prc | Special Rules               |
+| :------------------- | :--: | :-: | :-: | :-: | :-------------------------- |
+| M6 Pistol            | 8    | 3   | 3   | 3   | Swappable, Dual Wielding    |
+| MA5 Assault Rifle    | 30   | 5   | 2   | 2   | Swappable, Rapid Fire       |
+| M90 Shotgun          | 12   | 4   | 4   | 3   | Swappable, Rending (3)      |
+| BR55 Service Rifle   | 30   | 4   | 3   | 3   | Swappable, Accurate         |
+| SRS99 Sniper Rifle   | 42   | 2   | 10  | 4   | Swappable, Accurate         |
+| M41 Rocket Launcher  | 6-30 | 3   | 6   | 7   | Swappable                   |
+| M7 SMG               | 18   | 5   | 2   | 0   | Swappable, Dual Wielding    |
+| M9 Grenade           | 4-8  | 3   | 4   | 6   | Grenade, Blast, Rending (3) |
+| Spartan Melee Attack | 1    | 4   | 3   | 3   | Assault                     |
+
 # Arena Rules
+
+Arena mode lets players play small games with a different focus than the normal battles. Both players start with the same number of Spartans, usually between 2 and 8, and compete in either a Deathmatch, Capture the Flag, or King of the Hill mission.
+
+## Spartans
+
+Arena games only feature Spartans from the UNSC army list, however each Spartan starts the game with their default equipment: an MA5 Assault Rifle, M6 Pistol, and M9 Grenade. In addition, Spartans do not choose any of the armor abilities.
+
+If players wish to use Elites in games of Arena they should use the same profile as Spartans for balance, but change their starting equipment to a Plasma Rifle, Plasma Pistol and Plasma Grenade.
+
+## Respawn
+
+## Grenades
+
+All Grenade weapons in Arena games also have the One Use rule.
+
+## Stress
+
+Arena games do not use the rules for stress.
 
 ## Weapon Drops
 
 In addition to being able to pick up weapons that other models drop, arena includes weapon drop points. These are markers permanently placed around you battlefield which will randomly drop a weapon each round. At the end of each round, if the marker does not have a weapon on it, and does not have any models within 6 inches, you roll on the weapon table and place the rolled weapon at that location.
 
-| D12 Result | Weapon            |
-| :--------: | :---------------- |
-| 1-3        | No Weapon Dropped |
-| 4          | Shotgun           |
-| 5          | Battle Rifle      |
-| 6          | Plasma Rifle      |
-| 7          | Needler           |
-| 8          | Sniper Rifle      |
-| 9          | Rocket Launcher   |
-| 10         | Beam Rifle        |
-| 11         | Fuel Rod Gun      |
-| 12         | Energy Sword      |
+| D12 Result | Weapon              |
+| :--------: | :------------------ |
+| 1-3        | No Weapon Dropped   |
+| 4          | M90 Shotgun         |
+| 5          | BR55 Service Rifle  |
+| 6          | Plasma Rifle        |
+| 7          | Needler             |
+| 8          | SRS99 Sniper Rifle  |
+| 9          | M41 Rocket Launcher |
+| 10         | Beam Rifle          |
+| 11         | Fuel Rod Gun        |
+| 12         | Energy Sword        |
 
 ## Arena Objectives
 
@@ -103,7 +152,3 @@ While that model is carrying the enemy flag they may only make attacks using the
 If the model carrying the enemy flag is destroyed, place a marker where the model was destroyed indicating the position of the flag. If another model from an opposing team moves within 1 inch of the flag they pick up the flag as though they had picked it up from the enemy team base. If a model from the team that owns the flag moves within 1 inch of the marker it is immediately returned to their team base.
 
 If you are using more than one team flag per player you will need to mark each team flag and base with a number to ensure they return to the correct position.
-
-## Stress
-
-Arena games do not use the rules for stress.

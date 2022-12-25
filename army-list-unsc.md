@@ -36,7 +36,7 @@ A Spartan may replace its MA5 Assault Rifle with any of the following:
 
 A Spartan may instead replace both its MA5 Assault Rifle and M6 Pistol with two M7 SMGs.
 
-A Spartan may choose one of the following abilities:
+A Spartan may choose one of the following armor abilities:
 
 - Active Camouflage
 - Overshield:
@@ -109,23 +109,6 @@ This model may re-roll any failed defence rolls that did not roll a 1 until the 
 ## Jetpack
 
 This model gains the Fast and Flying special rules until the start of it's next activation. This ability may only be used once per battle.
-
-# Weapons
-
-| Ranged Weapon        | Rng  | Att | Dmg | Prc | Special Rules               |
-| :------------------- | :--: | :-: | :-: | :-: | :-------------------------- |
-| M6 Pistol            | 8    | 3   | 3   | 3   | Swappable, Dual Wielding    |
-| MA5 Assault Rifle    | 30   | 5   | 2   | 2   | Swappable, Rapid Fire       |
-| M90 Shotgun          | 12   | 4   | 4   | 3   | Swappable, Rending (3)      |
-| BR55 Service Rifle   | 30   | 4   | 3   | 3   | Swappable, Accurate         |
-| SRS99 Sniper Rifle   | 42   | 2   | 10  | 4   | Swappable, Accurate         |
-| M41 Rocket Launcher  | 6-30 | 3   | 6   | 7   | Swappable                   |
-| M7 SMG               | 18   | 5   | 2   | 0   | Swappable, Dual Wielding    |
-| M9 Grenade           | 4-8  | 3   | 4   | 6   | Grenade, Blast, Rending (3) |
-
-| Melee Weapons        | Rng  | Att | Dmg | Prc | Special                     |
-| :------------------- | :--: | :-: | :-: | :-: | :-------------------------- |
-| Spartan Melee Attack | 1    | 4   | 3   | 3   | Assault                     |
 
 # Unit Summary
 
