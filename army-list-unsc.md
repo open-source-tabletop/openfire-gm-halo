@@ -14,9 +14,9 @@ You may choose any units for your army from the following list.
 
 ## Spartans
 
-| Model   | MOV | SKL | DEF | CMD | HP  |
-| :------ | :-: | :-: | :-: | :-: | :-: |
-| Spartan |  8  |  4  |  4  |  4  | 14  |
+| Model   | Mov | Skl | Def | Str | Cmd | HP  |
+| :------ | :-: | :-: | :-: | :-: | :-: | :-: |
+| Spartan | 8   | 4   | 4   | 4   | 3   | 14  |
 
 ### Configuration
 
@@ -51,9 +51,9 @@ A Spartan may choose one of the following abilities:
 
 ## ODSTs
 
-| Model         | MOV | SKL | DEF | CMD | HP  |
-| :------------ | :-: | :-: | :-: | :-: | :-: |
-| ODST          | 6   | 6   | 7   | 5   | 8   |
+| Model   | Mov | Skl | Def | Str | Cmd | HP  |
+| :------ | :-: | :-: | :-: | :-: | :-: | :-: |
+| ODST    | 6   | 6   | 7   | 2   | 5   | 8   |
 
 ### Configuration
 
@@ -71,11 +71,15 @@ An ODST may replace its M7 SMG with any of the following:
 - M41 Rocket Launcher
 - SRS99 Sniper Rifle.
 
-## Marine
+### Special Rules
 
-| Model           | MOV | SKL | DEF | CMD | HP  |
-| :-------------- | :-: | :-: | :-: | :-: | :-: |
-| Marine          | 5   | 7   | 8   | 8   | 6   |
+Ambush
+
+## Marines
+
+| Model   | Mov | Skl | Def | Str | Cmd | HP  |
+| :------ | :-: | :-: | :-: | :-: | :-: | :-: |
+| Marine  | 6   | 6   | 10  | 2   | 8   | 7   |
 
 ### Configuration
 
@@ -85,7 +89,7 @@ A unit of Marines consists of 3-6 Marine models.
 
 A Marine is equipped with an MA5 Assault Rifle and M9 Grenades.
 
-Any Marine may exchange their MA5 Assault Rifle for any of the following:
+Any Marine or Marine Sergeant may exchange their MA5 Assault Rifle for any of the following:
 
 - M90 Shotgun
 - BR55 Service Rifle
@@ -108,17 +112,25 @@ This model gains the Fast and Flying special rules until the start of it's next 
 
 # Weapons
 
-| Ranged Weapon             | RNG  | ATT | DMG | PRC | Special                     |
-| :------------------------ | :--: | :-: | :-: | :-: | :-------------------------- |
-| M6 Pistol                 | 8    | 3   | 3   | 3   | Swappable, Dual Wielding    |
-| MA5 Assault Rifle         | 30   | 5   | 2   | 2   | Swappable, Rapid Fire       |
-| M90 Shotgun               | 12   | 4   | 4   | 3   | Swappable, Rending (3)      |
-| BR55 Service Rifle        | 30   | 4   | 3   | 3   | Swappable, Accurate         |
-| SRS99 Sniper Rifle        | 42   | 2   | 10  | 4   | Swappable, Accurate         |
-| M41 Rocket Launcher       | 6-30 | 3   | 6   | 7   | Swappable                   |
-| M7 SMG                    | 18   | 5   | 2   | 0   | Swappable, Dual Wielding    |
-| M9 Grenade                | 4-8  | 3   | 4   | 6   | Grenade, Blast, Rending (3) |
+| Ranged Weapon        | Rng  | Att | Dmg | Prc | Special Rules               |
+| :------------------- | :--: | :-: | :-: | :-: | :-------------------------- |
+| M6 Pistol            | 8    | 3   | 3   | 3   | Swappable, Dual Wielding    |
+| MA5 Assault Rifle    | 30   | 5   | 2   | 2   | Swappable, Rapid Fire       |
+| M90 Shotgun          | 12   | 4   | 4   | 3   | Swappable, Rending (3)      |
+| BR55 Service Rifle   | 30   | 4   | 3   | 3   | Swappable, Accurate         |
+| SRS99 Sniper Rifle   | 42   | 2   | 10  | 4   | Swappable, Accurate         |
+| M41 Rocket Launcher  | 6-30 | 3   | 6   | 7   | Swappable                   |
+| M7 SMG               | 18   | 5   | 2   | 0   | Swappable, Dual Wielding    |
+| M9 Grenade           | 4-8  | 3   | 4   | 6   | Grenade, Blast, Rending (3) |
 
-| Melee Weapons             | RNG  | ATT | DMG | PRC | Special                     |
-| :------------------------ | :--: | :-: | :-: | :-: | :-------------------------- |
-| Spartan Melee Attack      | 1    | 4   | 3   | 3   | Assault                     |
+| Melee Weapons        | Rng  | Att | Dmg | Prc | Special                     |
+| :------------------- | :--: | :-: | :-: | :-: | :-------------------------- |
+| Spartan Melee Attack | 1    | 4   | 3   | 3   | Assault                     |
+
+# Unit Summary
+
+| Model   | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                            |
+| :------ | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------- |
+| Spartan | 8   | 4   | 4   | 4   | 3   | 14  | Adaptable, Shield (3), Fearless, Skilled |
+| ODST    | 6   | 6   | 7   | 2   | 5   | 8   | Ambush                                   |
+| Marine  | 6   | 6   | 10  | 2   | 8   | 7   |                                          |

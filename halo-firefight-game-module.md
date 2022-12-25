@@ -54,6 +54,10 @@ This model may swap it's weapons during a game following the rules for weapon sw
 
 When making an attack with a weapon with this rule you may choose to make another attack, against the same target, with another weapon with the Dual Wielding special rule. If you do so you suffer a -2 modifier to your skill rolls for both attacks.
 
+### Shield (X)
+
+This model may ignore the first X points of damage it receives each round.
+
 ### Swappable
 
 This weapon may be swapped by models using the rules for weapon swapping.
