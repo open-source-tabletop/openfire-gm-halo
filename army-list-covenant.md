@@ -141,6 +141,7 @@ A Hunter unit consists of 1 Hunter model.
 
 - Heavy Armour (2)
 - Weak Point
+- Fearless
 
 ### Equipment
 
@@ -158,11 +159,11 @@ This model counts as having the **Shield (3)** special rule for attacks originat
 
 # Unit Summary
 
-| Model          | Mov | Skl | Def | Str | Cmd | HP  |
-| :------------- | :-: | :-: | :-: | :-: | :-: | :-: |
-| Elite Minor    | 6   | 7   | 6   | 3   | 8   | 8   |
-| Elite Major    | 6   | 6   | 6   | 3   | 5   | 9   |
-| Elite Ultra    | 6   | 5   | 6   | 3   | 4   | 10  |
-| Jackal         | 6   | 7   | 10  | 2   | 7   | 7   |
-| Grunt          | 5   | 8   | 10  | 2   | 10  | 5   |
-| Hunter         | 6   | 7   | 4   | 4   | 3   | 18  |
+| Model          | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                          |
+| :------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------------- |
+| Elite Minor    | 6   | 7   | 6   | 3   | 8   | 8   | Shield (2)                             |
+| Elite Major    | 6   | 6   | 6   | 3   | 5   | 9   | Adaptable, Shield (3)                  |
+| Elite Ultra    | 6   | 5   | 6   | 3   | 4   | 10  | Adaptable, Shield (3)                  |
+| Jackal         | 6   | 7   | 10  | 2   | 7   | 7   | Ambush, Elite Support, Jackal Shield   |
+| Grunt          | 5   | 8   | 10  | 2   | 10  | 5   | Elite Support                          |
+| Hunter         | 6   | 7   | 4   | 4   | 3   | 18  | Heavy Armour (2), Weak Point, Fearless |
