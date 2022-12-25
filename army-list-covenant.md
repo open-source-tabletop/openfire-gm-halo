@@ -129,10 +129,6 @@ One Grunt in your unit may replace its Plasma Pistol with a Fuel Rod Gun.
 
 ## Hunter
 
-| Model  | MOV | SKL | DEF | CMD | HP  |
-| :----- | :-: | :-: | :-: | :-: | :-: |
-| Hunter | 6   | 7   | 4   | 3   | 16  |
-
 | Model        | Mov | Skl | Def | Str | Cmd | HP  |
 | :----------- | :-: | :-: | :-: | :-: | :-: | :-: |
 | Hunter       | 6   | 7   | 4   | 4   | 3   | 18  |
@@ -159,3 +155,14 @@ While this unit is within 12 inches of an Elite model it may re-roll failed comm
 ## Jackal Shield
 
 This model counts as having the **Shield (3)** special rule for attacks originating in their front arc.
+
+# Unit Summary
+
+| Model          | Mov | Skl | Def | Str | Cmd | HP  |
+| :------------- | :-: | :-: | :-: | :-: | :-: | :-: |
+| Elite Minor    | 6   | 7   | 6   | 3   | 8   | 8   |
+| Elite Major    | 6   | 6   | 6   | 3   | 5   | 9   |
+| Elite Ultra    | 6   | 5   | 6   | 3   | 4   | 10  |
+| Jackal         | 6   | 7   | 10  | 2   | 7   | 7   |
+| Grunt          | 5   | 8   | 10  | 2   | 10  | 5   |
+| Hunter         | 6   | 7   | 4   | 4   | 3   | 18  |
