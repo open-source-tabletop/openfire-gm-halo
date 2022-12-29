@@ -16,11 +16,7 @@ You may choose any units for your army from the following list.
 
 | Model   | Mov | Skl | Def | Str | Cmd | HP  |
 | :------ | :-: | :-: | :-: | :-: | :-: | :-: |
-| Spartan | 8   | 4   | 4   | 4   | 3   | 14  |
-
-### Configuration
-
-A unit of Spartans consists of 1 Spartan model.
+| Spartan | 8   | 4   | 4   | 4   | 3   | 15  |
 
 ### Equipment
 
@@ -45,19 +41,14 @@ A Spartan may choose one of the following armor abilities:
 ### Special Rules
 
 - Adaptable
-- Shield (3)
-- Fearless
-- Skilled
+- Shield
 
 ## ODSTs
 
 | Model   | Mov | Skl | Def | Str | Cmd | HP  |
 | :------ | :-: | :-: | :-: | :-: | :-: | :-: |
-| ODST    | 6   | 6   | 7   | 2   | 5   | 8   |
+| ODST    | 6   | 6   | 6   | 2   | 5   | 8   |
 
-### Configuration
-
-A unit of ODSTs consists of between 2 and 5 ODST models.
 
 ### Equipment
 
@@ -79,11 +70,7 @@ Ambush
 
 | Model   | Mov | Skl | Def | Str | Cmd | HP  |
 | :------ | :-: | :-: | :-: | :-: | :-: | :-: |
-| Marine  | 6   | 6   | 10  | 2   | 8   | 7   |
-
-### Configuration
-
-A unit of Marines consists of 3-6 Marine models.
+| Marine  | 6   | 6   | 9   | 2   | 8   | 7   |
 
 ### Equipment
 
@@ -93,8 +80,8 @@ Any Marine or Marine Sergeant may exchange their MA5 Assault Rifle for any of th
 
 - M90 Shotgun
 - BR55 Service Rifle
-
-One Marine in the unit may exchange their MA5 Assault Rifle for an M41 Rocket Launcher or SRS99 Sniper Rifle.
+- M41 Rocket Launcher
+- SRS99 Sniper Rifle.
 
 # Abilities
 
@@ -114,6 +101,6 @@ This model gains the Fast and Flying special rules until the start of it's next 
 
 | Model   | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                            |
 | :------ | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------- |
-| Spartan | 8   | 4   | 4   | 4   | 3   | 14  | Adaptable, Shield (3), Fearless, Skilled |
+| Spartan | 8   | 4   | 4   | 4   | 3   | 14  | Adaptable, Shield                        |
 | ODST    | 6   | 6   | 7   | 2   | 5   | 8   | Ambush                                   |
 | Marine  | 6   | 6   | 10  | 2   | 8   | 7   |                                          |

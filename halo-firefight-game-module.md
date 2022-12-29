@@ -54,9 +54,9 @@ This model may swap it's weapons during a game following the rules for weapon sw
 
 When making an attack with a weapon with this rule you may choose to make another attack, against the same target, with another weapon with the Dual Wielding special rule. If you do so you suffer a -2 modifier to your skill rolls for both attacks.
 
-### Shield (X)
+### Shield
 
-This model may ignore the first X points of damage it receives each round.
+This model may ignore the first point of damage it receives each round, place a marker next to this model to show that it's shield has been used.
 
 ### Swappable
 
@@ -77,32 +77,33 @@ You may use the following army lists to create your army for Halo Firefight:
 
 | Covenant Weapons     | Rng | Att | Dmg | Prc | Special                               |
 | :------------------- | :-: | :-: | :-: | :-: | :------------------------------------ |
-| Assault Cannon       | 24  | 3   | 6   | 8   | Blast, Unwieldy                       |
+| Assault Cannon       | 24  | 5   | 5   | 6   | Blast, Unwieldy                       |
 | Beam Rifle           | 48  | 3   | 8   | 3   | Swappable, Accurate                   |
 | Covenant Carbine     |     |     |     |     |                                       |
 | - Standard           | 18  | 3   | 3   | 3   | Swappable                             |
 | - Sniper             | 32  | 3   | 6   | 3   | Swappable, Accurate, Heavy            |
-| Fuel Rod Gun         | 36  | 3   | 6   | 8   | Swappable, Blast, Unwieldy            |
-| Needler              | 18  | 8   | 1   | 0   | Swappable, Dual Wielding, Rending (5) |
-| Needle Rifle         | 32  | 4   | 3   | 1   | Swappable, Rapid Fire, Rending (3)    |
+| Fuel Rod Gun         | 36  | 5   | 5   | 5   | Swappable, Blast, Heavy               |
+| Needler              | 18  | 6   | 1   | 0   | Swappable, Dual Wielding, Rending (2) |
+| Needle Rifle         | 32  | 4   | 2   | 1   | Swappable, Rapid Fire, Rending (2)    |
 | Plasma Pistol        |     |     |     |     |                                       |
 | - *Standard*         | 16  | 3   | 3   | 2   | Swappable, Duel Wielding              |
-| - *Overcharge*       | 12  | 2   | 5   | 5   | Swappable, Dual Wielding, Blast       |
-| Plasma Rifle         | 24  | 5   | 3   | 2   | Swappable                             |
-| Energy Sword         | 1   | 5   | 3   | 5   | Swappable, Assault, Rending (5)       |
-| Hunter Combat Shield | 1   | 3   | Str | 5   | Assault, Unwieldy                     |
+| - *Overcharge*       | 12  | 1   | 5   | 5   | Swappable, Dual Wielding, Blast       |
+| Plasma Rifle         | 30  | 4   | 2   | 2   | Swappable, Rapid Fire                 |
+| Energy Sword         | 1   | 6   | 3   | 6   | Swappable, Assault, Rending (3)       |
+| Hunter Combat Shield | 1   | 3   | Str | 5   | Assault                               |
+| Plasma Grenade       | 4-8 | 3   | 4   | 5   | Grenade                               |
 
-| UNSC Weapons         | Rng  | Att | Dmg | Prc | Special Rules               |
-| :------------------- | :--: | :-: | :-: | :-: | :-------------------------- |
-| M6 Pistol            | 8    | 3   | 3   | 3   | Swappable, Dual Wielding    |
-| MA5 Assault Rifle    | 30   | 5   | 2   | 2   | Swappable, Rapid Fire       |
-| M90 Shotgun          | 12   | 4   | 4   | 3   | Swappable, Rending (3)      |
-| BR55 Service Rifle   | 30   | 4   | 3   | 3   | Swappable, Accurate         |
-| SRS99 Sniper Rifle   | 42   | 2   | 10  | 4   | Swappable, Accurate         |
-| M41 Rocket Launcher  | 6-30 | 3   | 6   | 7   | Swappable                   |
-| M7 SMG               | 18   | 5   | 2   | 0   | Swappable, Dual Wielding    |
-| M9 Grenade           | 4-8  | 3   | 4   | 6   | Grenade, Blast, Rending (3) |
-| Spartan Melee Attack | 1    | 4   | 3   | 3   | Assault                     |
+| UNSC Weapons         | Rng  | Att | Dmg | Prc | Special Rules                    |
+| :------------------- | :--: | :-: | :-: | :-: | :------------------------------- |
+| M6 Pistol            | 8    | 3   | 3   | 3   | Swappable, Dual Wielding         |
+| MA5 Assault Rifle    | 30   | 5   | 2   | 2   | Swappable, Rapid Fire            |
+| M90 Shotgun          | 12   | 4   | 4   | 3   | Swappable, Rending (3)           |
+| BR55 Service Rifle   | 30   | 4   | 3   | 3   | Swappable                        |
+| SRS99 Sniper Rifle   | 42   | 2   | 6   | 5   | Swappable, Accurate, Rending (3) |
+| M41 Rocket Launcher  | 6-30 | 3   | 6   | 7   | Swappable                        |
+| M7 SMG               | 18   | 5   | 2   | 0   | Swappable, Dual Wielding         |
+| M9 Grenade           | 4-8  | 3   | 4   | 6   | Grenade, Blast, Unwieldy         |
+| Spartan Melee Attack | 1    | 3   | 4   | 3   | Assault                          |
 
 # Arena Rules
 
